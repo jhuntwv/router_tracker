@@ -1,0 +1,45 @@
+[
+    {
+        "lat": 37.4180951010362,
+        "lng": -122.098531723022,
+        "address": "",
+        "serial": "Q2QN-9J8L-SLPD",
+        "mac": "e0:55:3d:17:d4:23",
+        "wan1Ip": "10.10.10.119",
+        "wan2Ip": null,
+        "lanIp": "10.10.10.119",
+        "url": "https://n149.meraki.com/DevNet-Sandbox-A/n/9tIK5cvc/manage/nodes/new_list/246656701813795",
+        "networkId": "L_646829496481105433",
+        "model": "MX65",
+        "firmware": "wired-14-42",
+        "floorPlanId": null
+    },
+    {
+        "lat": -6.97817626419744,
+        "lng": 107.631476116217,
+        "address": "Puri Kharisma",
+        "serial": "Q2MD-BHHS-5FDL",
+        "mac": "88:15:44:60:21:10",
+        "lanIp": null,
+        "url": "https://n149.meraki.com/DevNet-Sandbox-A/n/raXeAcvc/manage/nodes/new_list/149624922841360",
+        "networkId": "L_646829496481105433",
+        "name": "Testing-Devnet",
+        "model": "MR53",
+        "firmware": "wireless-26-6-1",
+        "floorPlanId": null
+    },
+    {
+        "lat": 37.4180951010362,
+        "lng": -122.098531723022,
+        "address": "",
+        "serial": "Q2HP-F5K5-R88R",
+        "mac": "88:15:44:df:f3:af",
+        "lanIp": "10.10.10.135",
+        "url": "https://n149.meraki.com/DevNet-Sandbox-A/n/EFZ1Davc/manage/nodes/new_list/149624931218351",
+        "networkId": "L_646829496481105433",
+        "model": "MS220-8P",
+        "switchProfileId": null,
+        "firmware": "switch-11-31",
+        "floorPlanId": null
+    }
+]
