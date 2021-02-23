@@ -3,7 +3,7 @@
 import sys
 from markup_editor import *
 
-def format_json():
+def format_json_file():
     store_json(sys.argv[1], load_json(sys.argv[1]))
 
-format_json()
+format_json_file()

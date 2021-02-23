@@ -10,7 +10,10 @@ def load_json(file):
 
 def store_json(file, payload):
     with open(file, 'w') as f:
-        json.dump(payload, f, indent = 4)
+        if type(payload) == str:
+            json.dump(json.loads(payload), f, indent = 4)
+        else:
+            json.dump(payload, f, indent = 4)
 
 def load_xml(file):
     with open(file) as f:
