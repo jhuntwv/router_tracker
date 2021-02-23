@@ -1,0 +1,168 @@
+[
+    {
+        "id": "L_646829496481105433",
+        "organizationId": "549236",
+        "name": "DevNet Sandbox ALWAYS ON",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107650",
+        "organizationId": "549236",
+        "name": "DNSMB1",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107660",
+        "organizationId": "549236",
+        "name": "DNSMB3",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107679",
+        "organizationId": "549236",
+        "name": "CSAP DEMO UR",
+        "timeZone": "America/Los_Angeles",
+        "tags": " tag1 tag2 ",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107684",
+        "organizationId": "549236",
+        "name": "Rods Network",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107695",
+        "organizationId": "549236",
+        "name": "DNSMB2-axxxxx0gmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107696",
+        "organizationId": "549236",
+        "name": "DNENT1-axxxxxjcisco.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107702",
+        "organizationId": "549236",
+        "name": "DNSMB4",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107707",
+        "organizationId": "549236",
+        "name": "DNENT2-rxxxxxxxigmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107708",
+        "organizationId": "549236",
+        "name": "DNENT3",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    }
+]
